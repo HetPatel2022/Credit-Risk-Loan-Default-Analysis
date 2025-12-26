@@ -103,5 +103,5 @@ This project demonstrates expertise in **credit risk analytics, financial data s
 
 **Het Patel**  
 Big Data & AI Analyst | Python, SQL, Power BI, Tableau  
-Barrie, ON | het376255@gmail.com | +1 (249) 535 5730  
+Barrie, ON | het376255@gmail.com  
 [LinkedIn](https://www.linkedin.com/in/het-patel-359184246/) | [GitHub](https://github.com/HetPatel2022)
