@@ -16,6 +16,7 @@ Credit risk is a critical component of financial portfolio management. This proj
 
 The analysis uses a combination of **Python for data processing and visualization** and **SQL for querying, aggregating, and filtering loan-level data efficiently**. Cohort-based analysis and segmentation allow deep understanding of borrower behavior.
 
+Dataset Link : https://www.kaggle.com/datasets/adarshsng/lending-club-loan-data-csv
 ---
 
 ## Methodology
